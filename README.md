@@ -48,4 +48,6 @@ If the browser shows the Loading... then its indicates that we do not connect bl
 from ganache.
 Now we can vote on our client side application and the casted vote is displayed in front of the candidates name.
 
-* Features
+# Features
+* In this repo you will find all the prerequisites like Truffle dependency which allows us to build decentralised application on the Ethereum Blockchain. It provides a suite of tools that allow us to write smart contracts with the solidity programming language. It also enables us to deploy them to the blockchain. It also provides us a platform to develop our client side application.
+* You just need to focus on your business logic that is smart contracts.
