@@ -47,3 +47,5 @@ After running above command new browser window onen automatically with client-si
 If the browser shows the Loading... then its indicates that we do not connect blockchain yet. We need to connect blockchain using ganache and import one account
 from ganache.
 Now we can vote on our client side application and the casted vote is displayed in front of the candidates name.
+
+* Features
